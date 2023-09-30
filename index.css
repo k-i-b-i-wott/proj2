@@ -1,0 +1,181 @@
+.container
+{
+    /* display: flex; */
+    height: 300px;
+    background-color: #1F2937;
+    border-radius: 50px;
+    height: 400PX;
+    flex-wrap: wrap;
+}
+nav
+{
+    display: flex;
+    margin-top: -100px;
+    margin-left: 30px;
+    
+   
+    
+}
+nav a
+{
+    font-weight: 18px;
+    color: #E5E7EB
+    
+
+}
+nav a:hover
+{
+    color: rgb(0, 0, 0);
+    background-color: rgb(31, 210, 106);
+    cursor: pointer;
+
+}
+.home
+{
+    margin-left: 900px;
+}
+.contact
+{
+margin-left: 30px;
+}
+.about
+{
+    margin-left: 30px;
+}
+.service
+{
+    margin-left: 30px;
+}
+.logo img
+{
+ border-radius: 100px;
+ margin-top: 10px;
+ margin-left: 30px;
+ height: 100px;
+}
+.logo{
+    
+    margin-top: 10px;
+    
+}
+h3{
+    margin-top: 120px;
+}
+button
+{
+    margin-left: 500px;
+    background-color:#3882F6;
+    border-radius: 30px;
+}
+button:hover
+{
+    background-color: #fff;
+    margin-top: -30px;
+}
+h3{
+    color: #F9FAF8;
+    font-weight: bolder;
+    font-size: 48px;
+    margin-left: 50px;
+    
+}
+p{
+    font-size: 18PX;
+    color: #E5E7EB;
+    margin-left: 70PX;
+}
+.img img
+{
+margin-left: 850px;
+margin-top: -300px;
+border-radius: 30px;
+
+
+}
+.cod
+{    margin-left: -700px;
+    
+    text-align: center;
+}
+.cod img
+{
+    
+    border-radius: 30px;
+    
+}
+h2
+{
+    margin-left: 30px;
+}
+.image
+{
+    height: 170px;
+    margin-left: 100px;
+    margin-top: -170px;
+    text-align: center;
+}
+.image img 
+{
+    border-radius: 30px;
+}
+.outlaws
+{
+    margin-left: 850px;
+    text-align: center;
+    margin-top: -170px;
+}
+.outlaws img 
+{
+    border-radius: 30px;
+    height: 150px;
+    width: 300px;
+}
+h2{
+    margin-left: 10s0px;
+}
+.container3
+{
+    
+    height: 250px;
+    border-radius: 20px;
+    background-color:#E5E7EB;
+    margin: 20px;
+
+}
+p2
+{
+    margin-left: 100px;
+}
+p1
+{
+ margin-left: 100px;
+}
+h4
+{
+    margin-top: 20px;
+}
+.container4
+{
+    background-color: #3882f6;
+    height: 100px;
+    border-radius: 10px;
+    width: 700px;
+    margin-left: 300px;
+}
+.p3
+{
+    margin-left: 50px;
+    text-align: center;
+}
+.container5
+{
+    background-color: #1F2937;
+    text-align: center;
+    height: 50px;
+    margin-top: 20px;
+}
+.butt
+{
+    border-color: #F9FAF8;
+    margin-top: 10px;
+}

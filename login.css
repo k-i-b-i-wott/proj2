@@ -1,0 +1,56 @@
+body
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    background-position: center;
+    background-image: url(/images/images.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.loginbox
+{
+    width: 350px;
+    margin: 20px;
+    height: 530px;
+    margin-left: 450px;
+    background-color: hwb(318 8% 24%);
+    border-radius: 30px;
+}
+.loginbox input
+{
+    margin-bottom: 20px;
+    width: 90%;
+    margin-left: 20px;
+}
+.loginbox p
+{
+   margin-left: 20px; 
+}
+.loginbox a
+{
+    margin-left: 40px;
+}
+.loginbox  input[type="password"],input[type="confirm password"],input[type ="name"], input[type="Email"]
+{
+ background-color: transparent;
+ border: none;
+ border-bottom: 1px solid #fff;
+ height: 20px;
+}
+.loginbox input[type="submit"]:hover
+{
+    background-color: rgb(57, 221, 12);
+    border-radius: 30px;
+}
+.loginbox input[type="submit"]
+{
+    border: none;
+    outline: none;
+    border-radius: 20px;
+    width: 200px;
+    margin-left: 30%;
+    height: 30px;
+}
+
+
